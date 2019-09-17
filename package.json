@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/eslintrc.git"
+		"url": "git@github.com:Product-Live/eslintrc.git"
 	},
 	"dependencies": {
 		"eslint": "^6.1.0"
@@ -17,9 +17,9 @@
 	"author": "anzerr",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/anzerr/eslintrc/issues"
+		"url": "https://github.com/Product-Live/eslintrc/issues"
 	},
-	"homepage": "https://github.com/anzerr/eslintrc#readme",
+	"homepage": "https://github.com/Product-Live/eslintrc#readme",
 	"engines": {
 		"node": ">= 0.10.0"
 	},
